@@ -1,0 +1,4 @@
+/Users/boywert/git/Chombo-3.2/lib/src/AMRElliptic/../../libamrelliptic3d.Darwin.64.mpicxx.mpif90.DEBUG.a(CCProjectorF.o) d/3d.Darwin.64.mpicxx.mpif90.DEBUG/CCProjectorF.d : /Users/boywert/git/Chombo-3.2/lib/src/AMRElliptic/../../src/BaseTools/BaseNamespaceFooter.H
+/Users/boywert/git/Chombo-3.2/lib/src/AMRElliptic/../../libamrelliptic3d.Darwin.64.mpicxx.mpif90.DEBUG.a(CCProjectorF.o) d/3d.Darwin.64.mpicxx.mpif90.DEBUG/CCProjectorF.d : CCProjectorF.ChF
+/Users/boywert/git/Chombo-3.2/lib/src/AMRElliptic/../../libamrelliptic3d.Darwin.64.mpicxx.mpif90.DEBUG.a(CCProjectorF.o) d/3d.Darwin.64.mpicxx.mpif90.DEBUG/CCProjectorF.d : /Users/boywert/git/Chombo-3.2/lib/src/AMRElliptic/../../src/BaseTools/CONSTANTS.H
+/Users/boywert/git/Chombo-3.2/lib/src/AMRElliptic/../../libamrelliptic3d.Darwin.64.mpicxx.mpif90.DEBUG.a(CCProjectorF.o) d/3d.Darwin.64.mpicxx.mpif90.DEBUG/CCProjectorF.d : /Users/boywert/git/Chombo-3.2/lib/src/AMRElliptic/../../src/BaseTools/BaseNamespaceHeader.H

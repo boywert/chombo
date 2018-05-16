@@ -1,0 +1,4 @@
+/Users/boywert/git/Chombo-3.2/lib/src/AMRElliptic/../../libamrelliptic2d.Darwin.64.c++.mpif90.DEBUG.a(NewPoissonOp4F.o) d/2d.Darwin.64.c++.mpif90.DEBUG/NewPoissonOp4F.d : NewPoissonOp4F.ChF
+/Users/boywert/git/Chombo-3.2/lib/src/AMRElliptic/../../libamrelliptic2d.Darwin.64.c++.mpif90.DEBUG.a(NewPoissonOp4F.o) d/2d.Darwin.64.c++.mpif90.DEBUG/NewPoissonOp4F.d : /Users/boywert/git/Chombo-3.2/lib/src/AMRElliptic/../../src/BaseTools/BaseNamespaceFooter.H
+/Users/boywert/git/Chombo-3.2/lib/src/AMRElliptic/../../libamrelliptic2d.Darwin.64.c++.mpif90.DEBUG.a(NewPoissonOp4F.o) d/2d.Darwin.64.c++.mpif90.DEBUG/NewPoissonOp4F.d : /Users/boywert/git/Chombo-3.2/lib/src/AMRElliptic/../../src/BaseTools/CONSTANTS.H
+/Users/boywert/git/Chombo-3.2/lib/src/AMRElliptic/../../libamrelliptic2d.Darwin.64.c++.mpif90.DEBUG.a(NewPoissonOp4F.o) d/2d.Darwin.64.c++.mpif90.DEBUG/NewPoissonOp4F.d : /Users/boywert/git/Chombo-3.2/lib/src/AMRElliptic/../../src/BaseTools/BaseNamespaceHeader.H

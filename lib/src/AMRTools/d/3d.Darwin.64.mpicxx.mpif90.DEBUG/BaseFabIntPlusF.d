@@ -1,0 +1,4 @@
+/Users/boywert/git/Chombo-3.2/lib/src/AMRTools/../../libamrtools3d.Darwin.64.mpicxx.mpif90.DEBUG.a(BaseFabIntPlusF.o) d/3d.Darwin.64.mpicxx.mpif90.DEBUG/BaseFabIntPlusF.d : /Users/boywert/git/Chombo-3.2/lib/src/AMRTools/../../src/BaseTools/CONSTANTS.H
+/Users/boywert/git/Chombo-3.2/lib/src/AMRTools/../../libamrtools3d.Darwin.64.mpicxx.mpif90.DEBUG.a(BaseFabIntPlusF.o) d/3d.Darwin.64.mpicxx.mpif90.DEBUG/BaseFabIntPlusF.d : BaseFabIntPlusF.ChF
+/Users/boywert/git/Chombo-3.2/lib/src/AMRTools/../../libamrtools3d.Darwin.64.mpicxx.mpif90.DEBUG.a(BaseFabIntPlusF.o) d/3d.Darwin.64.mpicxx.mpif90.DEBUG/BaseFabIntPlusF.d : /Users/boywert/git/Chombo-3.2/lib/src/AMRTools/../../src/BaseTools/BaseNamespaceFooter.H
+/Users/boywert/git/Chombo-3.2/lib/src/AMRTools/../../libamrtools3d.Darwin.64.mpicxx.mpif90.DEBUG.a(BaseFabIntPlusF.o) d/3d.Darwin.64.mpicxx.mpif90.DEBUG/BaseFabIntPlusF.d : /Users/boywert/git/Chombo-3.2/lib/src/AMRTools/../../src/BaseTools/BaseNamespaceHeader.H

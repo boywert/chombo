@@ -1,0 +1,4 @@
+/Users/boywert/git/Chombo-3.2/lib/src/AMRTools/../../libamrtools3d.Darwin.64.mpicxx.mpif90.DEBUG.a(AverageCodimF.o) d/3d.Darwin.64.mpicxx.mpif90.DEBUG/AverageCodimF.d : /Users/boywert/git/Chombo-3.2/lib/src/AMRTools/../../src/BaseTools/BaseNamespaceFooter.H
+/Users/boywert/git/Chombo-3.2/lib/src/AMRTools/../../libamrtools3d.Darwin.64.mpicxx.mpif90.DEBUG.a(AverageCodimF.o) d/3d.Darwin.64.mpicxx.mpif90.DEBUG/AverageCodimF.d : /Users/boywert/git/Chombo-3.2/lib/src/AMRTools/../../src/BaseTools/BaseNamespaceHeader.H
+/Users/boywert/git/Chombo-3.2/lib/src/AMRTools/../../libamrtools3d.Darwin.64.mpicxx.mpif90.DEBUG.a(AverageCodimF.o) d/3d.Darwin.64.mpicxx.mpif90.DEBUG/AverageCodimF.d : AverageCodimF.ChF
+/Users/boywert/git/Chombo-3.2/lib/src/AMRTools/../../libamrtools3d.Darwin.64.mpicxx.mpif90.DEBUG.a(AverageCodimF.o) d/3d.Darwin.64.mpicxx.mpif90.DEBUG/AverageCodimF.d : /Users/boywert/git/Chombo-3.2/lib/src/AMRTools/../../src/BaseTools/CONSTANTS.H
